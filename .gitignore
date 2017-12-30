@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+all-mias/
+all-mias.tar.gz
+benign_maligant_non_cancer/
+benign_maligant_non_cancer_png/
+cancer_non_cancer/
+cancer_non_cancer_png/
+
