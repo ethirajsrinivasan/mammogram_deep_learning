@@ -6,4 +6,9 @@ benign_maligant_non_cancer/
 benign_maligant_non_cancer_png/
 cancer_non_cancer/
 cancer_non_cancer_png/
-
+all-mias-png/
+learnopencv/
+preprocess_mias/
+contour_detection/*.png
+contour_detection/*.jpg
+contour_detection/*.jpeg
