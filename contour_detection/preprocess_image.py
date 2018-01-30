@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import glob
 import os
-os.chdir('C:/Users/E0146968/Downloads/standardisedImages/')
-images = glob.glob("*.jpg")
+os.chdir("./all-mias-png/")
+images = glob.glob("*.png")
 for im in images:
     print(im)
     image = cv2.imread(im)
