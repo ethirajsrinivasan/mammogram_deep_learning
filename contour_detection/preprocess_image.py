@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import glob
 import os
-os.chdir("/home/ethi/ethi/apps/advance_research/all-mias-png/")
+os.chdir("./all-mias-png/")
 images = glob.glob("*.png")
 for im in images:
     print(im)
